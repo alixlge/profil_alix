@@ -1,0 +1,52 @@
+
+.louloute{
+	text-align: justify;
+	text-decoration: none;
+	font-size: 10px;
+	line-height: 1,5;
+	letter-spacing: 1px;
+	font-family: "Montserrat", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+}
+
+	h1{
+		color: #415a77;
+		font-size: 30px;
+		margin: 80px;
+		padding: 40px;
+		border: 5px solid hotpink;
+		text-align: center;
+	}
+	body{
+	background-image: url(fond.jpeg);
+}
+	h3{
+		font-size: 20px;
+		margin: 80px;
+		padding: 40px;
+
+	}
+	p{
+		font-size: 15px;
+		margin: 80px;
+		padding: 40px;
+	}
+	.photop {
+		width: 70px;
+		height: 60px;
+		border-radius: 4px;
+		box-shadow: 2px 2px 2px;
+	}
+	
+	
+}
+
+
+
+.louloute {
+	color: #2f3e46;
+	border: 3px solid hotpink;
+}
+
